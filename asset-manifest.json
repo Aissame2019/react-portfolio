@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/My-Portfolio/static/css/main.c28bb45d.css",
-    "main.js": "/My-Portfolio/static/js/main.ceb08dc3.js",
+    "main.js": "/My-Portfolio/static/js/main.a716c00a.js",
     "static/js/787.a2cb61a6.chunk.js": "/My-Portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/home1.png": "/My-Portfolio/static/media/home1.a34f96b28016de93e3c3.png",
     "static/media/logo.png": "/My-Portfolio/static/media/logo.764f69f5a11525294f58.png",
@@ -13,11 +13,11 @@
     "static/media/CoolveticaRg-Regular.woff2": "/My-Portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/My-Portfolio/index.html",
     "main.c28bb45d.css.map": "/My-Portfolio/static/css/main.c28bb45d.css.map",
-    "main.ceb08dc3.js.map": "/My-Portfolio/static/js/main.ceb08dc3.js.map",
+    "main.a716c00a.js.map": "/My-Portfolio/static/js/main.a716c00a.js.map",
     "787.a2cb61a6.chunk.js.map": "/My-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c28bb45d.css",
-    "static/js/main.ceb08dc3.js"
+    "static/js/main.a716c00a.js"
   ]
 }

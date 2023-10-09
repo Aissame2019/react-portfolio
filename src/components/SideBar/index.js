@@ -23,7 +23,7 @@ const Sidebar = () => {
     <div className="nav-bar">
       <Link 
         className="logo"
-        to="/"
+        to="/My-Portfolio"
         onClick={() => setShowNav(false)}>
         <img src={LogoS} alt="Logo" />
         <img className="sub-logo" src={LogoSubtitle} alt="abousalim" />
